@@ -1,8 +1,8 @@
 - Since the project is created with a name sample.
 - In the D Drive create folder with name "YOUR_PROJECT_NAME"
 - In the command prompt "cd YOUR_PROJECT_NAME "
-- Take pull from https://github.com/PrakashCPoojar/CPA-Assignment // Since git directory name is CPA-Assignment you will get the "CPA-Assignment" folder
-- cd CPA-Assignmen
+- Take pull from https://github.com/Prakashpoojar-00/flutter-app // Since git directory name is flutter-app you will get the "flutter-app" folder
+- cd flutter-app
 - Open the CPA-Assignment project in your VS Code (IDE)
 - Check the dependencies section
 - RUN the: flutter pub get // To install the included dependencies
